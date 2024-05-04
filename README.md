@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Faisal Hussain
 #### Computer science student at King Abdulaziz University 
-![Computer science student at King Abdulaziz University ](https://media.licdn.com/dms/image/D4D16AQHilgRCJSqGxg/profile-displaybackgroundimage-shrink_350_1400/0/1690501138762?e=1720051200&v=beta&t=713Ov34E_vFW51KW5TXJQTPJkIhvJU0YO2Vhct3o1cc)
+![Computer science student at King Abdulaziz University ](https://github.com/FaisalPXL/FaisalPXL/blob/main/linked%20in%20header2.png)
 
 Junior student in computer science 
 Interested in software engineering and application development
