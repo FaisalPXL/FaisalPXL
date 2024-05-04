@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Faisal Hussain
+### Welcome, my name is Faisal Hussain
 #### Computer science student at King Abdulaziz University 
 ![Computer science student at King Abdulaziz University ](https://github.com/FaisalPXL/FaisalPXL/blob/main/linked%20in%20header2.png)
 
