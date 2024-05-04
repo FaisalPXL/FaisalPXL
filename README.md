@@ -3,7 +3,9 @@
 ![Computer science student at King Abdulaziz University ](https://github.com/FaisalPXL/FaisalPXL/blob/main/linked%20in%20header2.png)
 
 Junior student in computer science 
+
 Interested in software engineering and application development
+
 Leader of The media team at the Faculty of Computing and Information Technology
 
 Skills: Java / Spring boot / Python / Matlab / HTML / SQL
